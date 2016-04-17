@@ -1,0 +1,23 @@
+C:\Windows\SysWOW64>sha1deep64 Irclass.dll
+f0a64bbe992661d45272526729dd13419370015f  C:\Windows\SysWOW64\Irclass.dll
+
+C:\Windows\SysWOW64>sha1deep64 kmddsp.tsp
+a81704199061c8c15e6946254f07b6f4331d9aa7  C:\Windows\SysWOW64\kmddsp.tsp
+
+C:\Windows\SysWOW64>sha1deep64 C_932.NLS
+4692d5a7f51c549f45ca6e8b3641aaf1b963345f  C:\Windows\SysWOW64\C_932.NLS
+
+C:\Windows>sha1deep64 twain.dll
+3cacd2048db88f4f2e863b6de3b1fd197922b3f2  C:\Windows\twain.dll
+
+C:\Windows\System32>sha1deep64 schedsvc.dll
+205bf1ece783a5779c617f2ae0fc1b0d5801800b  C:\Windows\System32\schedsvc.dll
+
+C:\Windows\System32>sha1deep64 kernel32.dll
+397c44ef9c58cf81a4b8d334ecd847a89e68a65f  C:\Windows\System32\kernel32_unpatched.dll
+kernel32.dll - 6.1.7601.19110
+12/30/2015 12:57 PM
+
+0abfee42c766c2d4a125e84d45cc4e5bcb30fac1  C:\Users\william\Desktop\kernel32_before.dll
+kernel32.dll - 6.1.7601.23392
+3/17/2016 5:53 PM

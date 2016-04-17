@@ -1,0 +1,35 @@
+C:\Users\Win10\Desktop>hdroot.exe inst C:\Windows\System32\cmd.exe
+
+
+I: System Env check
+   end
+
+I: rkImage size   56580 B, will use 120 sectors
+I: Backdoor size 233984 B, will use 457 sectors
+
+I: Total use  577 sectors
+
+I: Crc16 0x1afe
+I: DriverBitMap 0000000c
+
+
+C: -
+
+    1 file layout pairs
+    Rkfile LCN 1653738, VCN 73
+    Rkfile logical sector 13229904, 584
+    Rkfile phyical disk 0, sector 14255952
+    Image place PhyDisk 80,   14255952 -   14256529 sector
+
+    Disk free 63%
+    Lastfree   7101780 -  18221566,  11119787 clusters, 44479148 k; Gold place
+    Maxfree    7101780 -  18221566,  11119787 clusters, 44479148 k; Gold place
+    Image place  145771951 - 145772528 logical sector
+    Rkfile phyical disk 0, sector 146797999
+    Image place PhyDisk 80,  146797999 -  146798576 sector
+
+
+I: Bootdisk phyid 0
+
+
+done

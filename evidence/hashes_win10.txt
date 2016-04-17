@@ -1,0 +1,5 @@
+C:\Users\Win10\Desktop\hashdeep>sha1deep64.exe ..\rkimage_14255952-14256529.bin
+078117e27d82e62fa58a6050e7946654290fffe6  C:\Users\Win10\Desktop\rkimage_14255952-14256529.bin
+
+C:\Users\Win10\Desktop\hashdeep>sha1deep64.exe ..\rkimage_146797999-146798576.bin
+078117e27d82e62fa58a6050e7946654290fffe6  C:\Users\Win10\Desktop\rkimage_146797999-146798576.bin
