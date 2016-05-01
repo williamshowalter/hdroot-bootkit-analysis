@@ -1,0 +1,6 @@
+
+C:\Python27\Scripts\vol.py --profile=Win7SP1x64 -f "HDRoot Analysis-8b1edd84.vmem" modules 
+
+Offset(V)          Name                 Base                             Size File
+------------------ -------------------- ------------------ ------------------ ----
+0xfffffa8004a0fbf0 DEBUGFILE.sys        0xfffff88002a18000             0x8000 \??\C:\Windows\system32\Drivers\DEBUGFILE.sys

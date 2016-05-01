@@ -1,0 +1,17 @@
+
+C:\Python27\Scripts\vol.py --profile=Win7SP1x64 -f "HDRoot Analysis-8b1edd84.vmem" printkey -K "ControlSet001\services\DEBUGFILE" 
+
+Legend: (S) = Stable   (V) = Volatile
+
+----------------------------
+Registry: \REGISTRY\MACHINE\SYSTEM
+Key name: DEBUGFILE (S)
+Last updated: 2016-05-01 20:12:56 UTC+0000
+
+Subkeys:
+
+Values:
+REG_DWORD     Type            : (S) 1
+REG_DWORD     ErrorControl    : (S) 0
+REG_DWORD     Start           : (S) 3
+REG_EXPAND_SZ ImagePath       : (S) \??\C:\Windows\system32\Drivers\DEBUGFILE.sys
